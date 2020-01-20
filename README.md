@@ -1,5 +1,7 @@
 # LibertChan
 
+[Center logo here]
+
 ### Technos :
 
 - Angular 8
