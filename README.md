@@ -2,6 +2,11 @@
 
 [Center logo here]
 
+# Link to repo :
+Front | Back
+---| ---
+[:tophat:](https://github.com/kim7834/libertChan_Front) | [:bug:](https://github.com/borisBelloc/libertChan_back)
+
 ### Technos :
 
 - Angular 8
