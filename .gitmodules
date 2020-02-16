@@ -1,0 +1,4 @@
+[submodule "Back"]
+	path = Back
+	url = https://github.com/borisBelloc/libertChan_back
+	branch = develop
