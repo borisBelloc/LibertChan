@@ -1,6 +1,8 @@
 # LibertChan
 
-[Center logo here]
+<p align="center">
+    <img src="https://i.imgur.com/0HECTK2.png" />
+</p>
 
 # Link to repo :
 Front | Back
