@@ -2,9 +2,6 @@
   <img src="https://i.imgur.com/0HECTK2.png" alt="LibertChan">                                                  
 </p>
 
-
-
-
 # Link to repositories :
 
 Front | Back
