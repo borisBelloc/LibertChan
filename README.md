@@ -28,6 +28,7 @@ Front | Back
 - PostgresSQL
 
 <hr>
+
 ### Run the project :
 
 ##### Development (clone both repositories)
