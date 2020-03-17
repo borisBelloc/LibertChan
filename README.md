@@ -9,7 +9,7 @@
 Front | Back
 :--: | :--:
 [-- :boat: --](https://github.com/kim7834/libertChan_Front) | [-- :see_no_evil: --](https://github.com/borisBelloc/libertChan_back)
-<sub>👥 [Link to original Team repository for **Front**](https://github.com/kim7834/libertChan_Front)</sub> |
+<sub>👥 [Link to original Team repository for **Front**](https://github.com/kim7834/libertChan_Front)</sub>
 
 
 <hr>
