@@ -49,6 +49,8 @@ Front | Back
 - Add data to the database : 
     - Create the channel by launching the SQL script found in `ScriptsSQL\channels_classic.sql`
  
+ <hr>
+ 
  ###### Others infos : 
  
  - See readme from  [back](https://github.com/borisBelloc/libertChan_back)
