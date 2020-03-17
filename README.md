@@ -4,11 +4,10 @@
 
 # Link to repositories :
 
-- [:boat: Front](https://github.com/kim7834/libertChan_Front) 
-- [:see_no_evil: Back](https://github.com/borisBelloc/libertChan_back)
-
-    
-    
+Front | Back
+--| --
+[-- :boat: --](https://github.com/kim7834/libertChan_Front) | [-- :see_no_evil: --](https://github.com/borisBelloc/libertChan_back)
+ 
 
 
 
@@ -28,7 +27,24 @@
 - Tomcat v9
 - PostgresSQL
 
+
 ### Run the project
 
-1/ clone both repo
-2/ `npm install`
+##### Development (clone both repositories)
+
+###### Front :
+- Instal [NodeJS](https://nodejs.org/en/download/)
+- Install [AngularCLI](https://cli.angular.io/) : `npm install -g @angular/cli`
+- Inside the *Front* folder : `npm install` to install the required node modules
+- Launch with `ng serve -o`  (the Back need to be running)
+
+
+###### Back :
+- Install a database management system (example : [PostgreSQL](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads))
+- Create a database (example [pgAdmin](https://www.pgadmin.org/))
+- Install [Tomcat](https://tomcat.apache.org/whichversion.html)
+- Add a tomcat server (easily done with [Eclipse](https://www.eclipse.org/downloads/packages/))
+- Launch Tomcat server
+- Add data to the database : 
+    - Create the channel by launching the SQL script found in `ScriptsSQL\channels_classic.sql`
+    
