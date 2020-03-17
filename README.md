@@ -48,4 +48,9 @@ Front | Back
 - Launch Tomcat server
 - Add data to the database : 
     - Create the channel by launching the SQL script found in `ScriptsSQL\channels_classic.sql`
-    
+ 
+ ###### Others infos : 
+ 
+ - See readme from  [back](https://github.com/borisBelloc/libertChan_back)
+  repository to implement custom dev-profile 
+
