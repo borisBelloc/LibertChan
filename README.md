@@ -9,7 +9,7 @@ Front | Back
 [-- :boat: --](https://github.com/kim7834/libertChan_Front) | [-- :see_no_evil: --](https://github.com/borisBelloc/libertChan_back)
  
 
-
+<hr>
 
 ### Technos :
 - [Angular 9](https://www.npmjs.com/package/@angular/cli)
@@ -27,8 +27,8 @@ Front | Back
 - Tomcat v9
 - PostgresSQL
 
-
-### Run the project
+<hr>
+### Run the project :
 
 ##### Development (clone both repositories)
 
