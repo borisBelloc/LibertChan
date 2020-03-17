@@ -4,9 +4,8 @@
 
 # Link to repositories :
 
-Front | Back
----| ---
-[:boat:](https://github.com/kim7834/libertChan_Front) | [:see_no_evil:](https://github.com/borisBelloc/libertChan_back)
+- [:boat: Front](https://github.com/kim7834/libertChan_Front) 
+- [:see_no_evil: Back](https://github.com/borisBelloc/libertChan_back)
 
     
     
@@ -31,5 +30,5 @@ Front | Back
 
 ### Run the project
 
-1/ clone repo
+1/ clone both repo
 2/ `npm install`
