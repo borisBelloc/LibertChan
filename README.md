@@ -25,6 +25,8 @@ Front | Back
         - [Ngx Until Destroy](https://www.npmjs.com/package/ngx-take-until-destroy) (gestion unsuscribe @Observable)
         - [Ngx ui switch](https://www.npmjs.com/package/ngx-ui-switch)
         - [Ngx-markdown](https://www.npmjs.com/package/ngx-markdown)
+        - [@ngx-pwa/local-storage](https://www.npmjs.com/package/@ngx-pwa/local-storage) : Localstorage | [github](https://github.com/cyrilletuzi/angular-async-local-storage) | `ng add @ngx-pwa/local-storage`
+
 - Bootstrap 4        
 - Java/Spring
 - Tomcat v9
